@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tobias Haber</h1>
-<h3 align="center">A passionate backend developer from Germany</h3>
+<h1>Hi 👋, I'm Tobias Haber</h1>
+<h3>A passionate backend developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartoffeltoby" alt="kartoffeltoby" /> </p>
 
@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartoffeltoby&show_icons=true" alt="kartoffeltoby" /></p>
 
-<p align="center">
+<p>
 <a href="https://twitter.com/kartoffeltoby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kartoffeltoby" height="30" width="30" /></a>
 <a href="https://instagram.com/kartoffeltoby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kartoffeltoby" height="30" width="30" /></a>
 </p>
