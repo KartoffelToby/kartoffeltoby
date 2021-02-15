@@ -26,46 +26,13 @@
 
 
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KartoffelToby&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="KartoffelToby Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartoffelToby&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
-
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=KartoffelToby&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="KartoffelToby Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=KartoffelToby&show_icons=true&hide_border=true&theme=radical" width="37%" alt="KartoffelToby Top Languages">
-
-
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KartoffelToby&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KartoffelToby&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/KartoffelToby/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KartoffelToby&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/KartoffelToby/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KartoffelToby&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/KartoffelToby/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KartoffelToby&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
 
 <div style="display: grid;grid-template-columns: 1fr 1fr;">
-    <img style="max-width:100%;width: 100%;padding: 1em;box-sizing: border-box;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartoffeltoby&layout=compact&hide=html" alt="kartoffeltoby" />
-    <img style="max-width:100%;width: 100%;padding: 1em;box-sizing: border-box;" align="left" src="https://github-readme-stats.vercel.app/api?username=kartoffeltoby&show_icons=true" alt="kartoffeltoby" />
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=KartoffelToby&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="KartoffelToby Github Stats" width="60%">
+  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=KartoffelToby&show_icons=true&hide_border=true&theme=radical" width="37%" alt="KartoffelToby Top Languages">
 </div>
 <br>
 <p>
