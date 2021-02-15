@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartoffeltoby" alt="kartoffeltoby" /> </p>
 
+- 🧗 I’m employed as Web-Application-Developer by Interfrog Produktion GmbH
+
 - 🔭 I’m currently working on my Website :grin:
 
 - 🌱 I’m currently learning **Tensorflow and OpenCV known as Machine Learning**
