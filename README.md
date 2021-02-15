@@ -36,6 +36,6 @@
 </div>
 <br>
 <p>
-<a href="https://twitter.com/kartoffeltoby" target="blank"><img align="center" style="fill:green;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kartoffeltoby" height="30" width="30" /></a>
-<a href="https://instagram.com/kartoffeltoby" target="blank"><img align="center"  style="fill:green;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kartoffeltoby" height="30" width="30" /></a>
+<a href="https://twitter.com/kartoffeltoby" target="blank"><img align="center" style="filter: brightness(8.5);" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kartoffeltoby" height="30" width="30" /></a>
+<a href="https://instagram.com/kartoffeltoby" target="blank"><img align="center"  style="filter: brightness(8.5);" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kartoffeltoby" height="30" width="30" /></a>
 </p>
