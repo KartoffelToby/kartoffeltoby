@@ -5,7 +5,7 @@
 
 - 🧗 I’m employed as Web-Application-Developer by Interfrog Produktion GmbH
 
-- 🔭 I’m currently working on Home Assistant related stuff [home-assistant/core](https://github.com/home-assistant/core) [My Setup](https://github.com/KartoffelToby/Home-Assistant-Setup)
+- 🔭 I’m currently working on Home Assistant related stuff like [home-assistant/core](https://github.com/home-assistant/core) and [My Setup](https://github.com/KartoffelToby/Home-Assistant-Setup)
 
 - 🌱 I’m currently learning **Tensorflow and OpenCV known as Machine Learning**
 
