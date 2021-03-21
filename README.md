@@ -5,11 +5,11 @@
 
 - 🧗 I’m employed as Web-Application-Developer by Interfrog Produktion GmbH
 
-- 🔭 I’m currently working on my Website :grin:
+- 🔭 I’m currently working on Home Assistant related stuff [home-assistant/core](https://github.com/home-assistant/core) [My Setup](https://github.com/KartoffelToby/Home-Assistant-Setup)
 
 - 🌱 I’m currently learning **Tensorflow and OpenCV known as Machine Learning**
 
-- 👯 I’m looking to collaborate on [Kubesphere](https://github.com/kubesphere/kubesphere)
+- 👯 I’m looking to collaborate on [home-assistant/core](https://github.com/home-assistant/core)
 
 - 🤝 I’m looking for help with [Docker Nas Samba](https://github.com/KartoffelToby/docker-nas-samba)
 
