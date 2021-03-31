@@ -39,6 +39,8 @@
   <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=KartoffelToby&show_icons=true&hide_border=true&theme=radical" width="37%" alt="KartoffelToby Top Languages">
 </div>
 <br>
+<a href="https://www.buymeacoffee.com/kartoffeltoby" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br>
 <p>
 <a href="https://twitter.com/kartoffeltoby" target="blank"><img align="center" style="filter: brightness(8.5);" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kartoffeltoby" height="30" width="30" /></a>
 <a href="https://instagram.com/kartoffeltoby" target="blank"><img align="center"  style="filter: brightness(8.5);" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kartoffeltoby" height="30" width="30" /></a>
