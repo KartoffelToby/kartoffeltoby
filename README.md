@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kartoffeltoby&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🧗 I’m employed as Web-Application-Developer by Interfrog Produktion GmbH
+- 🧗 I’m employed as Full-Stack Web-Application-Developer by Schaller Digital GmbH.
 
 - 🔭 I’m currently working on Home Assistant related stuff like [better_thermostat](https://github.com/KartoffelToby/better_thermostat) and [my setup](https://github.com/KartoffelToby/Home-Assistant-Setup)
 
