@@ -1,15 +1,15 @@
 <h1>Hi 👋, I'm Tobias Haber</h1>
-<h3>A passionate backend developer from Germany</h3>
+<h3>A passionate developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartoffeltoby" alt="kartoffeltoby" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kartoffeltoby&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🧗 I’m employed as Full-Stack Web-Application-Developer by Schaller Digital GmbH.
+- 🧗 I’m employed as AI Engineer, Full-Stack Web-Application-Developer by Schaller Digital GmbH.
 
-- 🔭 I’m currently working on Home Assistant related stuff like [better_thermostat](https://github.com/KartoffelToby/better_thermostat) and [my setup](https://github.com/KartoffelToby/Home-Assistant-Setup)
+- 🔭 I’m currently working on Home Assistant related stuff like [better_thermostat](https://github.com/KartoffelToby/better_thermostat)
 
-- 🌱 I’m currently learning **Tensorflow and OpenCV known as Machine Learning**
+- 🌱 I’m currently learning **AI / Machine Learning**
 
 - 👯 I’m looking to collaborate on [home-assistant/core](https://github.com/home-assistant/core)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regulary write articles on [https://t-haber.de](https://t-haber.de)
 
-- 💬 Ask me about **NodeJS, TypeScript, JavaScript, Linux, Docker, Angular, TYPO3**
+- 💬 Ask me about **AI, Astro, Docker, TYPO3, Home Assistant**
 
 - 📫 How to reach me **kontakt@t-haber.de**
 
